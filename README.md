@@ -3,6 +3,10 @@
 <p align="center"><img alt="Data Scientist" width="400" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkakash&label=Profile%20views&color=0e75b6&style=flat" alt="wkakash" /> </p>
+<p align="left"> <a href="https://github.com/wkakash/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=wkakash" alt="wkakash" /></a> </p>
+  
+
 
 - 💬 Ask me about **Business Analyst, Data Analyst**
 
