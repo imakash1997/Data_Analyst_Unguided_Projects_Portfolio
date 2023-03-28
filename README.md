@@ -10,9 +10,8 @@
 
 - 💬 Ask me about **Business Analyst, Data Analyst**
 
-- 📫 How to reach me **wkakash1997@gmail.com**
+- 📫 How to reach me **wkakash.work@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
