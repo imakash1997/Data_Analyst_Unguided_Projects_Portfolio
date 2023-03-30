@@ -89,21 +89,21 @@ The aim of this project is to analyze soccer game data and extract meaningful in
 
 The project will involve the following steps:
 
-Data Collection: Collecting soccer game data from reliable sources such as API's or datasets available online.
+* Data Collection: Collecting soccer game data from reliable sources such as API's or datasets available online.
 
-Data Cleaning and Preparation: Cleaning the collected data to remove any inconsistencies, missing values, and errors. Preparing the data for analysis by transforming and merging it as necessary.
+* Data Cleaning and Preparation: Cleaning the collected data to remove any inconsistencies, missing values, and errors. Preparing the data for analysis by transforming and merging it as necessary.
 
-Data Analysis: Using Python libraries such as Pandas, Numpy, and Matplotlib to analyze the data. Performing statistical analysis to identify patterns and trends in the data.
+* Data Analysis: Using Python libraries such as Pandas, Numpy, and Matplotlib to analyze the data. Performing statistical analysis to identify patterns and trends in the data.
 
-Data Visualization: Creating visualizations such as graphs, charts, and maps to present the results of the analysis.
+* Data Visualization: Creating visualizations such as graphs, charts, and maps to present the results of the analysis.
 
-Database Management: Storing the cleaned and transformed data in a relational database using SQL. Creating tables, defining relationships, and inserting data into the database.
+* Database Management: Storing the cleaned and transformed data in a relational database using SQL. Creating tables, defining relationships, and inserting data into the database.
 
-Querying the Database: Writing SQL queries to extract information from the database. These queries can be used to answer specific questions about the data.
+* Querying the Database: Writing SQL queries to extract information from the database. These queries can be used to answer specific questions about the data.
 
-Results Interpretation: Interpreting the results of the analysis and presenting them in a clear and concise manner. Drawing conclusions and making recommendations based on the insights gained.
+* Results Interpretation: Interpreting the results of the analysis and presenting them in a clear and concise manner. Drawing conclusions and making recommendations based on the insights gained.
 
-The project will require knowledge of Python programming, SQL, data cleaning and preparation, data analysis, data visualization, and database management. The project will be beneficial for soccer fans, coaches, and analysts who want to gain insights into the game and improve their performance.
+* The project will require knowledge of Python programming, SQL, data cleaning and preparation, data analysis, data visualization, and database management. The project will be beneficial for soccer fans, coaches, and analysts who want to gain insights into the game and improve their performance.
 
 
 
