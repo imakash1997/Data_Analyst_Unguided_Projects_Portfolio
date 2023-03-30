@@ -115,8 +115,8 @@ Regenerate response
 
 
 ### Built With
-react-icons
-* [![Python][Python.js][Next-url]
+
+* [![Python][Python.js]]
 * [![SQL][React.js]][React-url]
 
 
