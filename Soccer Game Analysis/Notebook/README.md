@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" alt="Logo" width="400" height="400">
+    <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Soccer Game Analysis Using Python and Sql</h3>
@@ -89,21 +89,21 @@ The aim of this project is to analyze soccer game data and extract meaningful in
 
 The project will involve the following steps:
 
-* Data Collection: Collecting soccer game data from reliable sources such as API's or datasets available online.
+Data Collection: Collecting soccer game data from reliable sources such as API's or datasets available online.
 
-* Data Cleaning and Preparation: Cleaning the collected data to remove any inconsistencies, missing values, and errors. Preparing the data for analysis by transforming and merging it as necessary.
+Data Cleaning and Preparation: Cleaning the collected data to remove any inconsistencies, missing values, and errors. Preparing the data for analysis by transforming and merging it as necessary.
 
-* Data Analysis: Using Python libraries such as Pandas, Numpy, and Matplotlib to analyze the data. Performing statistical analysis to identify patterns and trends in the data.
+Data Analysis: Using Python libraries such as Pandas, Numpy, and Matplotlib to analyze the data. Performing statistical analysis to identify patterns and trends in the data.
 
-* Data Visualization: Creating visualizations such as graphs, charts, and maps to present the results of the analysis.
+Data Visualization: Creating visualizations such as graphs, charts, and maps to present the results of the analysis.
 
-* Database Management: Storing the cleaned and transformed data in a relational database using SQL. Creating tables, defining relationships, and inserting data into the database.
+Database Management: Storing the cleaned and transformed data in a relational database using SQL. Creating tables, defining relationships, and inserting data into the database.
 
-* Querying the Database: Writing SQL queries to extract information from the database. These queries can be used to answer specific questions about the data.
+Querying the Database: Writing SQL queries to extract information from the database. These queries can be used to answer specific questions about the data.
 
-* Results Interpretation: Interpreting the results of the analysis and presenting them in a clear and concise manner. Drawing conclusions and making recommendations based on the insights gained.
+Results Interpretation: Interpreting the results of the analysis and presenting them in a clear and concise manner. Drawing conclusions and making recommendations based on the insights gained.
 
-* The project will require knowledge of Python programming, SQL, data cleaning and preparation, data analysis, data visualization, and database management. The project will be beneficial for soccer fans, coaches, and analysts who want to gain insights into the game and improve their performance.
+The project will require knowledge of Python programming, SQL, data cleaning and preparation, data analysis, data visualization, and database management. The project will be beneficial for soccer fans, coaches, and analysts who want to gain insights into the game and improve their performance.
 
 
 
@@ -116,9 +116,16 @@ Regenerate response
 
 ### Built With
 
-* [Python][Python.js]
-* [SQL][SQL.js]
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,6 +134,34 @@ Regenerate response
 <!-- GETTING STARTED -->
 ## Getting Started
 
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,6 +170,9 @@ Regenerate response
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +189,7 @@ Regenerate response
     - [ ] Chinese
     - [ ] Spanish
 
-
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,9 +266,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Python.js]: https://img.shields.io/badge/python%20-v3.7-orange
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[SQL.js]: https://img.shields.io/badge/sql%20-.-orange
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
