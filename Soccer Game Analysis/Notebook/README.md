@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" alt="Logo" width="80" height="80">
+    <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Soccer Game Analysis Using Python and Sql</h3>
@@ -117,7 +117,7 @@ Regenerate response
 ### Built With
 
 * [![Python][Python.js]]
-* [![SQL][React.js]][React-url]
+* [![SQL][SQL.js]]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -230,7 +230,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [Python.js]: https://img.shields.io/badge/python%20-v3.7-orange
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[SQL.js]: https://img.shields.io/badge/sql%20-.-orange
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
