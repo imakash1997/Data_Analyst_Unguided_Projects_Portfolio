@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" alt="Logo" width="200" height="200">
+    <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Soccer Game Analysis Using Python and Sql</h3>
@@ -116,8 +116,8 @@ Regenerate response
 
 ### Built With
 
-* [![Python][Python.js]]
-* [![SQL][SQL.js]]
+* [Python][Python.js]
+* [SQL][SQL.js]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
