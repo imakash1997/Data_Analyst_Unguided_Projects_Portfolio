@@ -16,7 +16,7 @@ database.sqlite: This file contains the Player,Match,League,Country,Team tables.
 # Getting Started
 To run this project, you will need the following:
 
-- ### Python 3.x
+- Python 3.x
 - Jupyter Notebook
 - sqlite3
 - pandas
