@@ -25,9 +25,9 @@ To run this project, you will need the following:
 - matplotlib
 ### Installation:
 
-'''bash
-pip install pandas numpy seaborn matplotlib sqlite3
-'''
+```bash
+  pip install pandas numpy seaborn matplotlib sqlite3
+```
 Once you have all the dependencies installed, you can open the Soccer Game Analysis.ipynb file in Jupyter Notebook and run the cells.
 
 # Conclusion
