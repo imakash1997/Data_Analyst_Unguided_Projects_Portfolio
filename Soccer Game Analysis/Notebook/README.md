@@ -2,13 +2,13 @@
 # Soccer Game Analysis
 This is a data analysis project that focuses on exploring and analyzing the performance of football teams in the English Premier League. The project uses Jupyter notebook with python, sql and libraries matplotlib and seaborn to gain insights from the data
 
-3Project Structure
+# Project Structure
 The project is organized into two main directories:
 
-# Notebook
+- # Notebook
 This directory contains the Jupyter Notebook file that contains all the code used for data analysis. The Notebook is named Soccer Game Analysis.ipynb and is located in the Notebook directory.
 
-# Data
+- ## Data
 This directory contains all the data files used in the analysis. The data files are in SQLITE format and are located in the Data directory. The files used are:
 
 database.sqlite: This file contains the Player,Match,League,Country,Team tables.
