@@ -16,16 +16,17 @@ database.sqlite: This file contains the Player,Match,League,Country,Team tables.
 # Getting Started
 To run this project, you will need the following:
 
-Python 3.x
-Jupyter Notebook
-pandas
-numpy
-seaborn
-matplotlib
+- Python 3.x
+- Jupyter Notebook
+- sqlite3
+- pandas
+- numpy
+- seaborn
+- matplotlib
 To install the required packages, run the following command:
 
 Copy code
-pip install pandas numpy seaborn matplotlib
+pip install pandas numpy seaborn matplotlib sqlite3
 Once you have all the dependencies installed, you can open the Soccer Game Analysis.ipynb file in Jupyter Notebook and run the cells.
 
 # Conclusion
