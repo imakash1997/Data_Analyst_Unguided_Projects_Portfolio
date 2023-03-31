@@ -5,7 +5,7 @@ This is a data analysis project that focuses on exploring and analyzing the perf
 # Project Structure
 The project is organized into two main directories:
 
-- # Notebook
+- ## Notebook
 This directory contains the Jupyter Notebook file that contains all the code used for data analysis. The Notebook is named Soccer Game Analysis.ipynb and is located in the Notebook directory.
 
 - ## Data
@@ -16,7 +16,7 @@ database.sqlite: This file contains the Player,Match,League,Country,Team tables.
 # Getting Started
 To run this project, you will need the following:
 
-- Python 3.x
+- ### Python 3.x
 - Jupyter Notebook
 - sqlite3
 - pandas
