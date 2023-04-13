@@ -21,8 +21,8 @@ You are provided with historical sales data for 45 Walmart stores located in dif
   - Weekly Sales - sales for the given department in the given store 
   - Is Holiday - whether the week is a special holiday week
   
-- test.csv: This file is identical to train.csv, except we have withheld the weekly sales. You must predict the sales for each triplet of store, department, and date in this file. 
-- features.csv: This file contains additional data related to the store, department, and regional activity for the given dates. It contains the following fields:
+- <b>test.csv:</b> This file is identical to train.csv, except we have withheld the weekly sales. You must predict the sales for each triplet of store, department, and date in this file. 
+- <b>features.csv:</b> This file contains additional data related to the store, department, and regional activity for the given dates. It contains the following fields:
   - Store - the store number 
   - Date - the week 
   - Temperature - average temperature in the region 
