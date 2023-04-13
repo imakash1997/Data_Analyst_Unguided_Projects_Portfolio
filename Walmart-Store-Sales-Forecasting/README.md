@@ -52,7 +52,9 @@ To run this project, you will need the following:
 Once you have all the dependencies installed, you can open the Soccer Game Analysis.ipynb file in Jupyter Notebook and run the cells.
 
 # Conclusion
-This project provides a comprehensive analysis of football teams in the Premier Leagues. It covers various aspects such as team performance, player statistics, and match analysis. The project can be extended to include more data sources and more advanced analysis techniques to gain even more insights into the data.
+After comparing the accuracy score of the regression models(Decision Tree,Random Forest,XGBoost,Linear Regression)
+<b>Decision has highest accuracy score</b>
+<h2>Decision tree is winner here!!</h2>
 
 
 
