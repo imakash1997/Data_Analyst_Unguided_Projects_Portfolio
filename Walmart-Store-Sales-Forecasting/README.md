@@ -1,7 +1,5 @@
 
-# CASE STUDY-RETAIL WALMART STORE SALES PREDICTION FORECASTING
-This is a data analysis project that focuses on exploring and analyzing the performance of football teams in the English Premier League. The project uses Jupyter notebook with python, sql and libraries matplotlib and seaborn to gain insights from the data
-
+<center>CASE STUDY-RETAIL WALMART STORE SALES PREDICTION FORECASTING</center>
 ## Business Context: 
 The objective is predicting store sales using historical markdown data. One challenge of modelling retail data is the need to make decisions based on limited history. If Christmas comes but once a year, so does the chance to see how strategic decisions impacted the bottom line
 
