@@ -47,7 +47,7 @@ To run this project, you will need the following:
 ```bash
   !pip install pandas numpy seaborn matplotlib sklearn xgboost pickle-mixin
 ```
-Once you have all the dependencies installed, you can open the Soccer Game Analysis.ipynb file in Jupyter Notebook and run the cells.
+Once you have all the dependencies installed, you can open the Walmart-Store-Sales-Forecasting.ipynb file in Jupyter Notebook and run the cells.
 
 # Conclusion
 After comparing the accuracy score of the regression models(Decision Tree,Random Forest,XGBoost,Linear Regression)
