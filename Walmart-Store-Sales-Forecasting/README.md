@@ -32,27 +32,22 @@ You are provided with historical sales data for 45 Walmart stores located in dif
   - Unemployment - the unemployment rate 
   - Is Holiday - whether the week is a special holiday week
 
-
-
-- ## Data
-This directory contains all the data files used in the analysis. The data files are in SQLITE format and are located in the Data directory. The files used are:
-
-database.sqlite: This file contains the Player,Match,League,Country,Team tables.
-
 # Getting Started
 To run this project, you will need the following:
 
-- Python 3.x
+- Python 3.10.7
 - Jupyter Notebook
-- sqlite3
 - pandas
 - numpy
 - seaborn
 - matplotlib
+- sklearn
+- xgboost
+- pickle-mixin
 ### Installation:
 
 ```bash
-  !pip install pandas numpy seaborn matplotlib sqlite3
+  !pip install pandas numpy seaborn matplotlib sklearn xgboost pickle-mixin
 ```
 Once you have all the dependencies installed, you can open the Soccer Game Analysis.ipynb file in Jupyter Notebook and run the cells.
 
