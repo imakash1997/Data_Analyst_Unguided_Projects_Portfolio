@@ -24,7 +24,7 @@ The Installation process will get you a copy of the project up and running on yo
 ```python
 import pickle
 # load the model from disk - use to classify the default customers directly
-loaded_model = pickle.load(open('OutPutModel/final_model.pkl', 'rb'))
+loaded_model = pickle.load(open('Credit_Risk_Analytics/OutPutModel/final_model.pkl', 'rb'))
 print("Loaded Decision tree model :: ", loaded_model)
 ```
 5. After successfully loading the saved model, we can use them in the general way to predict for test dataset or in the production servers.
