@@ -42,7 +42,7 @@ The following list summarizes the packages/softwares used in this project. These
  - Data Folder -- Contains Raw Data Files
  - Problem Statement -- Case Study Business Problem Statement
  - [CreditRiskAnalytics Summary](Credit_Risk_Analytics_by_Akash_Choudhary.pdf) -- Credit Risk Analytics Project Summary Report
- - [CreditRiskAnalytics-DefaultModel](CreditRiskAnalytics-DefaultModel.ipynb) -- Project Source Code File
+ - [CreditRiskAnalytics-Model](CreditRiskAnalytics-Model.ipynb) -- Project Source Code File
  - [LogisticRegression-KSChart](LogisticRegression-KSChart.xlsx) -- Excel Template File for Lift and Gain Charts
  
 ### License & CopyRight
