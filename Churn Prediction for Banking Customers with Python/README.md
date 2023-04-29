@@ -1,4 +1,4 @@
-# Bank Customer Churn in Python
+# Machine Learning Approach for Predicting Bank Customer Churn using Python
 
 In this repository, I used Python to analyze bank customer churn.
 
