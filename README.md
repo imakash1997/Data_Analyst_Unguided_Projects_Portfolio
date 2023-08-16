@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akash Choudhary</h1>
 <h3 align="center">Proficient Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wkakash&label=Profile%20views&color=0e75b6&style=flat" alt="wkakash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imakash1997&label=Profile%20views&color=0e75b6&style=flat" alt="imakash1997" /> </p>
 
 - 💬 Ask me about **Data Analyst, Data Science, Business Analyst**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wkakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wkakash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imakash1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imakash1997" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
